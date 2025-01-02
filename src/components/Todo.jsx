@@ -14,4 +14,5 @@ export default function Todo(){
       <TodoList todos={todos} setTodos={setTodos}/>
      <Footer completedtodos={completedtodos} totalTodos={totalTodos}/>
     </div>);
+    
 }
